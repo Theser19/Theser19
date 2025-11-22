@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Sergio+C%C3%A1rdenas;Desarrollador+Unity+%F0%9F%8E%AE;Web+Developer+%F0%9F%92%BB;Creando+experiencias+digitales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=%2C+Soy+Sergio+Cardenas;Desarrollador+Unity+%F0%9F%8E%AE;Web+Developer+%F0%9F%92%BB;Experiencias+digitales" alt="Typing SVG" />
   </a>
 
   <p>📍 Colombia | 🎓 Estudiante & Desarrollador</p>
@@ -18,16 +18,16 @@
 
 <br/>
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **mi videojuego para la electiva de Unity**.
-- 🌱 Estoy aprendiendo a profundidad sobre **ShaderLab y optimización en C#**.
-- 👯 Busco colaborar en **proyectos Open Source de videojuegos o web**.
-- 🎨 Mis intereses: **Desarrollo de Videojuegos, Modelado 3D y Frontend**.
+- Actualmente estoy trabajando en **Mi videojuego personal**.
+- Estoy aprendiendo a profundidad sobre **Programacion C# y Creacion de mecanicas**.
+- Busco colaborar en **proyectos de videojuegos o web**.
+- Mis intereses: **Desarrollo de Videojuegos, Modelado 3D y FullStack**.
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### Arsenal Tecnológico
 
 #### 💻 Lenguajes & Frameworks
 <div align="left">
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 
-#### ⚙️ Herramientas & Software
+#### Herramientas & Software
 <div align="left">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -51,16 +51,16 @@
 ---
 
 ### 🚀 Proyecto Destacado: Unity Electiva
-> *Un breve vistazo a lo que estoy construyendo actualmente.*
+> *Estoy construyendo actualmente.*
 
 | Nombre | Descripción | Tech |
 | :--- | :--- | :--- |
-| [**ProyectoUnity_Electiva-4**](https://github.com/Theser19/ProyectoUnity_Electiva-4) | Videojuego desarrollado para la materia electiva, enfocado en mecánicas 3D. | Unity, C#, ShaderLab |
+| [**ProyectoUnity_Electiva-4**](https://github.com/Theser19/ProyectoUnity_Electiva-4) | Videojuego desarrollado para la materia electiva, enfocado en mecánicas 3D. | Unity, C# |
 | [**Prueba_IA_TEXT**](https://github.com/Theser19/Prueba_IA_TEXT_INSTRUMENTS) | Pruebas de integración de texto e instrumentos. | HTML, JS |
 
 <br/>
 
-### 📊 Actividad en GitHub
+### Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Theser19&show_icons=true&theme=midnight-owl&hide_border=true&locale=es" alt="Stats" />
