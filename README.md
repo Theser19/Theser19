@@ -29,7 +29,7 @@
 
 ### Arsenal Tecnológico
 
-#### 💻 Lenguajes & Frameworks
+#### Lenguajes & Frameworks
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 🚀 Proyecto Destacado: Unity Electiva
+### Proyecto Destacado: Unity Electiva
 > *Estoy construyendo actualmente.*
 
 | Nombre | Descripción | Tech |
