@@ -63,7 +63,7 @@
 ### Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theser19&show_icons=true&theme=midnight-owl&hide_border=true&locale=es" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theser19&theme=midnight-owl&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theser19&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Sergio's Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theser19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
 </div>
