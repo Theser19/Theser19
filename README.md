@@ -11,7 +11,7 @@
   <a href="https://sketchfab.com/Theser19">
     <img src="https://img.shields.io/badge/Sketchfab-1CA6E6?style=for-the-badge&logo=sketchfab&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/sergio-cardenas-perdomo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
