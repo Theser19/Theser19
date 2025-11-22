@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Soy+Sergio+Cardenas;Desarrollador+Unity+%F0%9F%8E%AE;Web+Developer+%F0%9F%92%BB;Experiencias+digitales" alt="Typing SVG" />
   </a>
 
-  <p>📍 Colombia | 🎓 Estudiante & Desarrollador</p>
+  <p>Colombia | Estudiante & Desarrollador</p>
 
   <a href="https://www.artstation.com/theser19">
     <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
