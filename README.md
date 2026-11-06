@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Soy+Sergio+Cardenas;Desarrollador+Unity+%F0%9F%8E%AE;Web+Developer+%F0%9F%92%BB;Experiencias+digitales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Soy+Sergio+C%C3%A1rdenas;Desarrollador+Unity+%F0%9F%8E%AE;Web+Developer+%F0%9F%92%BB;Experiencias+digitales" alt="Soy Sergio Cárdenas, desarrollador Unity y web" />
   </a>
 
-  <p>Colombia | Estudiante & Desarrollador</p>
+  <p>Colombia · Estudiante de Ingeniería en Multimedia (UMNG)</p>
 
   <a href="https://www.artstation.com/theser19">
-    <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
+    <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
   </a>
   <a href="https://sketchfab.com/Theser19">
-    <img src="https://img.shields.io/badge/Sketchfab-1CA6E6?style=for-the-badge&logo=sketchfab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sketchfab-1CA6E6?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab" />
   </a>
   <a href="https://www.linkedin.com/in/sergio-cardenas-perdomo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -20,50 +20,39 @@
 
 ### Sobre mí
 
-- Actualmente estoy trabajando en **Mi videojuego personal**.
-- Estoy aprendiendo a profundidad sobre **Programacion C# y Creacion de mecanicas**.
+- Estoy trabajando en una **nueva versión de mi juego de la electiva**, como juego independiente.
+- Estoy aprendiendo a fondo **programación en C# y creación de mecánicas**.
 - Busco colaborar en **proyectos de videojuegos o web**.
-- Mis intereses: **Desarrollo de Videojuegos, Modelado 3D y FullStack**.
+- Mis intereses: **desarrollo de videojuegos, modelado 3D y desarrollo full stack**.
 
 ---
 
-### Arsenal Tecnológico
+### Proyectos
 
-#### Lenguajes & Frameworks
-<div align="left">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</div>
-
-#### Herramientas & Software
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
----
-
-### Proyecto Destacado: Unity Electiva
-> *Estoy construyendo actualmente.*
-
-| Nombre | Descripción | Tech |
+| Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| [**ProyectoUnity_Electiva-4**](https://github.com/Theser19/ProyectoUnity_Electiva-4) | Videojuego desarrollado para la materia electiva, enfocado en mecánicas 3D. | Unity, C# |
-| [**Prueba_IA_TEXT**](https://github.com/Theser19/Prueba_IA_TEXT_INSTRUMENTS) | Pruebas de integración de texto e instrumentos. | HTML, JS |
+| [**Melodía AI**](https://github.com/Theser19/ProyectoFinalAA) · [demo](https://theser19.github.io/ProyectoFinalAA/) | Clasificador de instrumentos (CNN) y detector de humor (LSTM) que corren en el navegador. Proyecto final de Aprendizaje Automático. | TensorFlow.js, Keras, JavaScript |
+| [**ProyectoUnity_Electiva-4**](https://github.com/Theser19/ProyectoUnity_Electiva-4) | Juego 3D de escape en un bosque: inventario, reparar el carro para huir, enemigo con jumpscares y cronómetro. Nueva versión en desarrollo. | Unity, C# |
 
-<br/>
+---
 
-### Actividad en GitHub
+### Tecnologías
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theser19&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Sergio's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theser19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+#### Lenguajes y frameworks
+<div align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+</div>
+
+#### Herramientas
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
