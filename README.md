@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Soy+Sergio+C%C3%A1rdenas;Desarrollador+Unity+%F0%9F%8E%AE;Web+Developer+%F0%9F%92%BB;Experiencias+digitales" alt="Soy Sergio Cárdenas, desarrollador Unity y web" />
   </a>
 
-  <p>Colombia · Estudiante de Ingeniería en Multimedia (UMNG)</p>
+  <p>Colombia · Ingeniero en Multimedia UMNG</p>
 
   <a href="https://www.artstation.com/theser19">
     <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
@@ -20,10 +20,10 @@
 
 ### Sobre mí
 
-- Estoy trabajando en una **nueva versión de mi juego de la electiva**, como juego independiente.
-- Estoy aprendiendo a fondo **programación en C# y creación de mecánicas**.
-- Busco colaborar en **proyectos de videojuegos o web**.
-- Mis intereses: **desarrollo de videojuegos, modelado 3D y desarrollo full stack**.
+- Apasionado por los videojuegos y creacion de mecanicas.
+- Estoy aprendiendo IA para enemigos en videojuegos en Unity.
+- Me encanta explorar herramientas para optimizacion de tareas.
+- Mis intereses: **desarrollo de videojuegos,Mecanicas, modelado 3D,Animacion 3D y IA para Npc**.
 
 ---
 
