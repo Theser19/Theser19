@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Soy+Sergio+C%C3%A1rdenas;Desarrollador+Unity+%F0%9F%8E%AE;Web+Developer+%F0%9F%92%BB;Experiencias+digitales" alt="Soy Sergio Cárdenas, desarrollador Unity y web" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=600&lines=Soy+Sergio+C%C3%A1rdenas;Ingeniero+en+Multimedia;Desarrollador+de+videojuegos+%F0%9F%8E%AE;Mec%C3%A1nicas+e+IA+para+NPC+%F0%9F%A4%96;Modelado+y+animaci%C3%B3n+3D" alt="Soy Sergio Cárdenas, ingeniero en Multimedia y desarrollador de videojuegos" />
   </a>
 
   <p>Colombia · Ingeniero en Multimedia UMNG</p>
@@ -20,10 +20,10 @@
 
 ### Sobre mí
 
-- Apasionado por los videojuegos y creacion de mecanicas.
-- Estoy aprendiendo IA para enemigos en videojuegos en Unity.
-- Me encanta explorar herramientas para optimizacion de tareas.
-- Mis intereses: **desarrollo de videojuegos,Mecanicas, modelado 3D,Animacion 3D y IA para Npc**.
+- Apasionado por los videojuegos y la creación de mecánicas.
+- Estoy aprendiendo IA para enemigos en videojuegos con Unity.
+- Me encanta explorar herramientas para optimizar tareas.
+- Mis intereses: **desarrollo de videojuegos, mecánicas, modelado 3D, animación 3D e IA para NPC**.
 
 ---
 
@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
 </div>
 
