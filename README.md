@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=600&lines=Soy+Sergio+C%C3%A1rdenas;Ingeniero+en+Multimedia;Desarrollador+de+videojuegos+%F0%9F%8E%AE;Mec%C3%A1nicas+e+IA+para+NPC+%F0%9F%A4%96;Modelado+y+animaci%C3%B3n+3D" alt="Soy Sergio Cárdenas, ingeniero en Multimedia y desarrollador de videojuegos" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=600&lines=Soy+Sergio+C%C3%A1rdenas;Ingeniero+en+Multimedia;Desarrollador+de+videojuegos;Mec%C3%A1nicas+e+IA+para+NPC;Modelado+y+animaci%C3%B3n+3D" alt="Soy Sergio Cárdenas, ingeniero en Multimedia y desarrollador de videojuegos" />
   </a>
 
   <p>Colombia · Ingeniero en Multimedia UMNG</p>
